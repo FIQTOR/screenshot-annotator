@@ -64,3 +64,4 @@ describe('Annotation Canvas Utilities', () => {
     });
   });
 });
+
